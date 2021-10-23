@@ -1,0 +1,25 @@
+[
+    {
+      "Owner": {
+        "FirstName": "Jes",
+        "LastName": "Hansen",
+        "Age": 42,
+        "Address": {
+          "Street": "Kvej 63",
+          "City": "Valby",
+          "Country": "DK"
+        },
+        "PhoneNumbers": [
+          "22301687",
+          "25334684"
+        ]
+      }
+    },
+    {
+      "Companion": {
+        "Name": "Lilly",
+        "FavoriteToy": "Jes",
+        "Eats": "leverposteg"
+      }
+    }
+  ]
